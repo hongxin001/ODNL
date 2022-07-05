@@ -48,6 +48,17 @@ You can download ***300K Random Images*** datasets (from [OE](https://github.com
 ### [300K Random Images](https://people.eecs.berkeley.edu/~hendrycks/300K_random_images.npy)
 
 
+## What's More?
+Below are my other research works related to this topic:
+
+1. Can we use OOD examples to rebalance long-tailed dataset? [ICML 22](https://arxiv.org/pdf/2206.08802.pdf) | [Code](https://github.com/hongxin001/open-sampling)
+2. How to handle noisy labels in domain adaptation: [AAAI 2022](https://arxiv.org/pdf/2201.06001.pdf) | [Code](https://github.com/Renchunzi-Xie/GearNet)
+3. How to handle multiple noisy labels? [TNNLS](https://hongxin001.github.io/docs/papers/2022TNNLS.pdf)
+4. Combating noisy labels with Agreement: [CVPR 2020](https://arxiv.org/pdf/2003.02752.pdf) | [Code](https://github.com/hongxin001/JoCoR)
+
+<!-- 1. Using open-set noisy labels to improve robustness against inherent noisy labels: [NeurIPS 2021](https://arxiv.org/pdf/2106.10891.pdf) | [Code](https://github.com/hongxin001/ODNL) -->
+
+
 ## Citation
 
 If you find this useful in your research, please consider citing:
